@@ -15,11 +15,5 @@ public class DictionaryExample : MonoBehaviour
         {
             Debug.Log(item.Key + ":" + item.Value);
         }
-        myDictionary.Clear();
-
-        
-    }
-   
-
-    
+    } 
 }
